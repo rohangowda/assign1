@@ -2,7 +2,7 @@ package com.raremile.training.rohan;
 
 public class gitApp {
 	public static void main(String [] args) {
-		System.out.println("My name is Rohan, I'm learning Git");
+		System.out.println("My name is Rohan, I know some Git");
 	}
 
 }
